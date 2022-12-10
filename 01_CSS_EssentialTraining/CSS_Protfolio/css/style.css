@@ -18,6 +18,14 @@ img {
     width: 300px;
 }
 
+a {
+    color: #ffe66d;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
 
 /* Profile
 *********************************************************** */
@@ -30,6 +38,22 @@ header {
 *********************************************************** */
 .projects {
     background: #f7fff7;
+}
+
+.projects a {
+    color: #2f3061;
+}
+
+.projects .btn {
+    color: #f7fff7;
+    background: #2f3061;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.projects .btn:hover {
+    background: rgba(47, 48, 97, 80%);
 }
 
 /* Work Exprience
