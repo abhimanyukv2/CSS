@@ -12,6 +12,8 @@ https://coolors.co/f7fff7-343434-2f3061-ffe66d-a1c6d7
  ********************************************************* */
 body {
     color: #343434;
+    margin: 0;
+    padding: 0;
 }
 
 img {
@@ -26,6 +28,10 @@ a:hover {
     text-decoration: none;
 }
 
+.content-wrap {
+    width: 800px;
+    margin: 0 auto;
+}
 
 /* Profile
 *********************************************************** */
