@@ -31,6 +31,19 @@ a:hover {
 .content-wrap {
     width: 800px;
     margin: 0 auto;
+    padding: 60px 0;
+}
+
+h1 {
+    /* margin: 0; */
+}
+
+h2 {
+    margin: 0;
+}
+
+p {
+    /* margin: 0; */
 }
 
 /* Profile
@@ -56,6 +69,7 @@ header {
     text-decoration: none;
     padding: 8px;
     border-radius: 4px;
+    display: inline-block;
 }
 
 .projects .btn:hover {
