@@ -69,6 +69,7 @@ h2 {
 header {
     background-color: #2f3061;
     color: #f7fff7;
+    text-align: center;
 }
 
 header h2 {
@@ -136,4 +137,17 @@ header h2 {
 .contact-info {
     background: #343434;
     color: #f7fff7;
+    text-align: center;
+}
+
+.contact-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-list a {
+    padding: 15px;
+    display: inline-block;
 }
