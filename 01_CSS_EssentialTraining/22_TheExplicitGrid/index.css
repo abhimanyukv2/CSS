@@ -14,3 +14,7 @@
     border: 2px solid mediumvioletred;
     padding: 10px;
 }
+
+.example {
+    grid-column: 4/6;
+}
